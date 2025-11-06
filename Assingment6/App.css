@@ -1,0 +1,21 @@
+.main{
+    display: grid;
+    grid-template-columns: 600px 600px;
+}
+button{
+    color: white;
+    background-color: aqua;
+    font-weight: 900;
+    font-size: 20px;
+    margin-top: -20px;
+    
+}
+p{
+    color: white;
+    font-size: 60px;
+    font-weight: 950;
+    text-shadow: rgb(224, 228, 144) 0px 0px 10px;
+}
+.reset{
+    text-align: center;
+}
